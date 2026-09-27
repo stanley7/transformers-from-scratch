@@ -2,7 +2,7 @@
 
 A step-by-step implementation of the original Transformer architecture from scratch using PyTorch.
 
-The goal of this project is to understand how Transformers work internally by implementing the individual components ourselves instead of relying on high-level Transformer implementations.
+The goal of this project is to code transformers from scratch by implementing the individual components ourselves instead of relying on high-level Transformer implementations.
 
 The final goal is to build and train an encoder-decoder Transformer for English → French translation.
 
